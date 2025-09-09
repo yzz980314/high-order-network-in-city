@@ -24,6 +24,7 @@ high-order-network-in-city/
 ├── data/                 # Input data files (.shp, .xlsx)
 ├── *.py                  # All Python source code and analysis scripts
 ├── README.md             # This file
+└── LICENSE               # Project license
 ```
 
 ---
